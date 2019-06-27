@@ -2,7 +2,7 @@
 
 This file summarizes contents for big data toolkits such as **Hadoop** and **Spark**.
 
-##Folders
+## Folders
 
 Table below briefly summarizes the content inside each folder. All topics are subject to managing with large datasets. We are using an AWS EMR cluster to realize and some commands may take some time to execute.
 
